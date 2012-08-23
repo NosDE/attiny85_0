@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <avr/io.h>
 
-#include "timer0.h"
+#include "timer0_ctc.h"
 
 static uint8_t cs0[3];
 

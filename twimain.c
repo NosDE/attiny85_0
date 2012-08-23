@@ -6,7 +6,7 @@
 #include <usitwislave.h>
 
 #include "ioports.h"
-#include "timer0.h"
+#include "timer0_ctc.h"
 #include "watchdog.h"
 
 enum
